@@ -1,0 +1,5 @@
+used_car_results/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
